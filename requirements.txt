@@ -3,7 +3,5 @@ flasgger
 flask_restful
 pyairtable
 gunicorn
-YouTubeTranscriptApi
-yt_dlp
-json
-re
+youtube-transcript-api
+yt-dlp
